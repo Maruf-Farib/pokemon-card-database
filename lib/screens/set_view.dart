@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:pokemon/screens/Gallery_Page.dart';
+import 'package:pokemon/screens/gallery_page.dart';
 
 class SetView extends StatefulWidget {
   final String setName;

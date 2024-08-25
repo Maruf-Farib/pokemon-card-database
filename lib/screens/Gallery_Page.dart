@@ -109,7 +109,7 @@ class _GalleryPageState extends State<GalleryPage> {
       }
 
       File file = File(devicePathToSaveImage);
-      print('File path: $devicePathToSaveImage');
+      //print('File path: $devicePathToSaveImage');
       // Make the HTTP GET request
       var res = await get(Uri.parse(imageUrl));
       if (res.statusCode == 200) {
@@ -121,7 +121,7 @@ class _GalleryPageState extends State<GalleryPage> {
         ));
       }
     } catch (error) {
-      print("Error: $error");
+      //print("Error: $error");
     }
   }
 }
