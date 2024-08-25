@@ -3,6 +3,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 
 import 'package:pokemon/screens/set_view.dart';
+import 'package:pokemon/update_checker.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -17,6 +18,7 @@ class _HomeState extends State<Home> {
   @override
   void initState() {
     super.initState();
+    checkForUpdates(context);
     loadJsonData();
   }
 

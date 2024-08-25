@@ -42,60 +42,134 @@
 30        </intent>
 31    </queries>
 32
-33    <application
-34        android:name="android.app.Application"
-35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-35-->[androidx.core:core:1.6.0] C:\Users\FARIB\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
-36        android:debuggable="true"
-37        android:icon="@mipmap/ic_launcher"
-38        android:label="Pokemon Card Viewer"
-39        android:requestLegacyExternalStorage="true" >
-40        <activity
-41            android:name="com.example.pokemon.MainActivity"
-42            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-43            android:exported="true"
-44            android:hardwareAccelerated="true"
-45            android:launchMode="singleTop"
-46            android:taskAffinity=""
-47            android:theme="@style/LaunchTheme"
-48            android:windowSoftInputMode="adjustResize" >
-49
-50            <!--
-51                 Specifies an Android theme to apply to this Activity as soon as
-52                 the Android process has started. This theme is visible to the user
-53                 while the Flutter UI initializes. After that, this theme continues
-54                 to determine the Window background behind the Flutter UI.
-55            -->
-56            <meta-data
-57                android:name="io.flutter.embedding.android.NormalTheme"
-58                android:resource="@style/NormalTheme" />
-59
-60            <intent-filter>
-61                <action android:name="android.intent.action.MAIN" />
-62
-63                <category android:name="android.intent.category.LAUNCHER" />
-64            </intent-filter>
-65        </activity>
-66        <!--
-67             Don't delete the meta-data below.
-68             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-69        -->
-70        <meta-data
-71            android:name="flutterEmbedding"
-72            android:value="2" />
-73
-74        <uses-library
-74-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
-75            android:name="androidx.window.extensions"
-75-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
-76            android:required="false" />
-76-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
-77        <uses-library
-77-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
-78            android:name="androidx.window.sidecar"
-78-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
-79            android:required="false" />
-79-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
-80    </application>
-81
-82</manifest>
+33    <permission
+33-->[androidx.core:core:1.13.1] C:\Users\FARIB\.gradle\caches\transforms-3\2f6a5506f4dac22f7ab67b13b215ea43\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+34        android:name="com.example.pokemon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+34-->[androidx.core:core:1.13.1] C:\Users\FARIB\.gradle\caches\transforms-3\2f6a5506f4dac22f7ab67b13b215ea43\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+35        android:protectionLevel="signature" />
+35-->[androidx.core:core:1.13.1] C:\Users\FARIB\.gradle\caches\transforms-3\2f6a5506f4dac22f7ab67b13b215ea43\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+36
+37    <uses-permission android:name="com.example.pokemon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+37-->[androidx.core:core:1.13.1] C:\Users\FARIB\.gradle\caches\transforms-3\2f6a5506f4dac22f7ab67b13b215ea43\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+37-->[androidx.core:core:1.13.1] C:\Users\FARIB\.gradle\caches\transforms-3\2f6a5506f4dac22f7ab67b13b215ea43\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+38
+39    <application
+40        android:name="android.app.Application"
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.13.1] C:\Users\FARIB\.gradle\caches\transforms-3\2f6a5506f4dac22f7ab67b13b215ea43\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+42        android:debuggable="true"
+43        android:icon="@mipmap/ic_launcher"
+44        android:label="Pokemon Card Viewer"
+45        android:requestLegacyExternalStorage="true" >
+46        <activity
+47            android:name="com.example.pokemon.MainActivity"
+48            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+49            android:exported="true"
+50            android:hardwareAccelerated="true"
+51            android:launchMode="singleTop"
+52            android:taskAffinity=""
+53            android:theme="@style/LaunchTheme"
+54            android:windowSoftInputMode="adjustResize" >
+55
+56            <!--
+57                 Specifies an Android theme to apply to this Activity as soon as
+58                 the Android process has started. This theme is visible to the user
+59                 while the Flutter UI initializes. After that, this theme continues
+60                 to determine the Window background behind the Flutter UI.
+61            -->
+62            <meta-data
+63                android:name="io.flutter.embedding.android.NormalTheme"
+64                android:resource="@style/NormalTheme" />
+65
+66            <intent-filter>
+67                <action android:name="android.intent.action.MAIN" />
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+70            </intent-filter>
+71        </activity>
+72        <!--
+73             Don't delete the meta-data below.
+74             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+75        -->
+76        <meta-data
+77            android:name="flutterEmbedding"
+78            android:value="2" />
+79
+80        <activity
+80-->[:url_launcher_android] D:\Projects\flutter\pokemon\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+81            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+81-->[:url_launcher_android] D:\Projects\flutter\pokemon\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+82            android:exported="false"
+82-->[:url_launcher_android] D:\Projects\flutter\pokemon\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+83            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+83-->[:url_launcher_android] D:\Projects\flutter\pokemon\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+84
+85        <uses-library
+85-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+86            android:name="androidx.window.extensions"
+86-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+87            android:required="false" />
+87-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+88        <uses-library
+88-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+89            android:name="androidx.window.sidecar"
+89-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+90            android:required="false" />
+90-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+91
+92        <provider
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+93            android:name="androidx.startup.InitializationProvider"
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+94            android:authorities="com.example.pokemon.androidx-startup"
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+95            android:exported="false" >
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+96            <meta-data
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+98                android:value="androidx.startup" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+99        </provider>
+100
+101        <receiver
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+102            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+103            android:directBootAware="false"
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+104            android:enabled="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+105            android:exported="true"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+106            android:permission="android.permission.DUMP" >
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+108                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+111                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+114                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+117                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\FARIB\.gradle\caches\transforms-3\77b04ab641bc809f6845dd10c6b5dd1f\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+118            </intent-filter>
+119        </receiver>
+120    </application>
+121
+122</manifest>
