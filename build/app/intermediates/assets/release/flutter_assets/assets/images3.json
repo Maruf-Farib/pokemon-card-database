@@ -1,6 +1,7 @@
 [
     {
-        "setName": "151 (MEW)",
+        "setName": "151",
+        "image": "https://den-media.pokellector.com/logos/Scarlet-Violet-151.logo.374.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv3-5_en_001_std.jpg",
             "https://pkmncards.com/wp-content/uploads/sv3-5_en_002_std.jpg",
@@ -212,7 +213,8 @@
         ]
     },
     {
-        "setName": "Ancient Origins (AOR)",
+        "setName": "Ancient Origins",
+        "image": "https://den-media.pokellector.com/logos/Ancient-Origins.logo.174.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY7-001-oddish.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY7-002-gloom.jpg",
@@ -318,7 +320,8 @@
         ]
     },
     {
-        "setName": "Aquapolis (AQ)",
+        "setName": "Aquapolis",
+        "image": "https://den-media.pokellector.com/logos/Aquapolis.logo.110.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aipom-aquapolis-aq-67.jpg",
             "https://pkmncards.com/wp-content/uploads/ampharos-aquapolis-aq-1.jpg",
@@ -505,7 +508,8 @@
         ]
     },
     {
-        "setName": "Arceus (AR)",
+        "setName": "Arceus",
+        "image": "https://den-media.pokellector.com/logos/Platinum-Arceus.logo.41.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aerodactyl-arceus-ar-13.jpg",
             "https://pkmncards.com/wp-content/uploads/arceus-colorless-arceus-ar-ar5.jpg",
@@ -621,7 +625,8 @@
         ]
     },
     {
-        "setName": "Astral Radiance (ASR)",
+        "setName": "Astral Radiance",
+        "image": "https://den-media.pokellector.com/logos/Astral-Radiance.logo.345.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH10-001-beedrill_v.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH10-002-hisuian_voltorb.jpg",
@@ -872,7 +877,8 @@
         ]
     },
     {
-        "setName": "BREAKpoint (BKP)",
+        "setName": "BREAKpoint",
+        "image": "https://den-media.pokellector.com/logos/BREAKPoint.logo.183.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY9-001-chikorita.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY9-002-bayleef.jpg",
@@ -1003,7 +1009,8 @@
         ]
     },
     {
-        "setName": "BREAKthrough (BKT)",
+        "setName": "BREAKthrough",
+        "image": "https://den-media.pokellector.com/logos/XY-Breakthrough.logo.179.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY8-001-paras.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY8-002-parasect.jpg",
@@ -1173,7 +1180,8 @@
         ]
     },
     {
-        "setName": "Base Set (BS)",
+        "setName": "Base Set",
+        "image": "https://den-media.pokellector.com/logos/Base-Set.logo.119.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abra-base-set-bs-43.jpg",
             "https://pkmncards.com/wp-content/uploads/alakazam-base-set-bs-1.jpg",
@@ -1280,7 +1288,8 @@
         ]
     },
     {
-        "setName": "Base Set 2 (B2)",
+        "setName": "Base Set 2",
+        "image": "https://den-media.pokellector.com/logos/Base-Set-2.logo.122.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abra-base-set-2-b2-65.jpg",
             "https://pkmncards.com/wp-content/uploads/alakazam-base-set-2-b2-1.jpg",
@@ -1415,7 +1424,8 @@
         ]
     },
     {
-        "setName": "Battle Styles (BST)",
+        "setName": "Battle Styles",
+        "image": "https://den-media.pokellector.com/logos/Battle-Styles.logo.305.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH5-001-bellsprout.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH5-002-weepinbell.jpg",
@@ -1604,6 +1614,7 @@
     },
     {
         "setName": "Best of Game",
+        "image": "https://den-media.pokellector.com/logos/Best-of-Game.logo.196.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/dark-ivysaur-best-of-game-6.jpg",
             "https://pkmncards.com/wp-content/uploads/dark-venusaur-best-of-game-7.jpg",
@@ -1617,7 +1628,8 @@
         ]
     },
     {
-        "setName": "Black & White (BLW)",
+        "setName": "Black & White",
+        "image": "https://den-media.pokellector.com/logos/Black-White.logo.1.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW1-001-snivy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW1-002-snivy.jpg",
@@ -1737,7 +1749,8 @@
         ]
     },
     {
-        "setName": "Black & White Energy (2011 Unnumbered)",
+        "setName": "Black & White Energy",
+        "image": "https://den-media.pokellector.com/logos/Black-White.logo.1.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW_Energy-001-grass_energy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW_Energy-002-fire_energy.jpg",
@@ -1750,7 +1763,8 @@
         ]
     },
     {
-        "setName": "Black & White Promos (BWP)",
+        "setName": "Black & White Promos",
+        "image": "https://den-media.pokellector.com/logos/Black-White-Promos.logo.9.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/bwbsp_en_097_std.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_BW-BW01-snivy.jpg",
@@ -1854,7 +1868,8 @@
         ]
     },
     {
-        "setName": "Black & White Trainer Kit—Excadrill (TK5E)",
+        "setName": "Black & White Trainer Kit—Excadrill",
+        "image": "https://den-media.pokellector.com/logos/Black-White-Promos.logo.9.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK5B-001-lillipup.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK5B-002-fighting_energy.jpg",
@@ -1889,7 +1904,8 @@
         ]
     },
     {
-        "setName": "Black & White Trainer Kit—Zoroark (TK5Z)",
+        "setName": "Black & White Trainer Kit—Zoroark",
+        "image": "https://den-media.pokellector.com/logos/Black-White-Promos.logo.9.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK5A-001-purrloin.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK5A-002-watchog.jpg",
@@ -1924,7 +1940,8 @@
         ]
     },
     {
-        "setName": "Boundaries Crossed (BCR)",
+        "setName": "Boundaries Crossed",
+        "image": "https://den-media.pokellector.com/logos/Boundaries-Crossed.logo.7.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW7-001-oddish.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW7-002-gloom.jpg",
@@ -2083,6 +2100,7 @@
     },
     {
         "setName": "Box Topper",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/p01-box-topper-alakazam.jpg",
             "https://pkmncards.com/wp-content/uploads/p02-box-topper-feraligatr.jpg",
@@ -2099,7 +2117,8 @@
         ]
     },
     {
-        "setName": "Brilliant Stars (BRS)",
+        "setName": "Brilliant Stars",
+        "image": "https://den-media.pokellector.com/logos/Brilliant-Stars.logo.340.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH9-001-exeggcute-1.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH9-002-exeggutor-1.jpg",
@@ -2320,7 +2339,8 @@
         ]
     },
     {
-        "setName": "Burning Shadows (BUS)",
+        "setName": "Burning Shadows",
+        "image": "https://den-media.pokellector.com/logos/Burning-Shadows.logo.225.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM3-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM3-002-metapod.jpg",
@@ -2517,7 +2537,8 @@
         ]
     },
     {
-        "setName": "Call of Legends (CL)",
+        "setName": "Call of Legends",
+        "image": "https://den-media.pokellector.com/logos/Call-of-Legends.logo.33.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-COL-001-clefable.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-COL-002-deoxys.jpg",
@@ -2628,7 +2649,8 @@
         ]
     },
     {
-        "setName": "Celebrations (CEL)",
+        "setName": "Celebrations",
+        "image": "https://den-media.pokellector.com/logos/Celebrations.logo.329.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-Ann25th-001-ho_oh.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-Ann25th-002-reshiram.jpg",
@@ -2683,7 +2705,8 @@
         ]
     },
     {
-        "setName": "Celestial Storm (CES)",
+        "setName": "Celestial Storm",
+        "image": "https://den-media.pokellector.com/logos/Celestial-Storm.logo.244.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM7-001-bellsprout.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM7-002-weepinbell.jpg",
@@ -2888,7 +2911,8 @@
         ]
     },
     {
-        "setName": "Champion's Path (CPA)",
+        "setName": "Champion's Path",
+        "image": "https://den-media.pokellector.com/logos/Champions-Path.logo.298.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-CP-001-venusaur_v.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-CP-002-weedle.jpg",
@@ -2973,7 +2997,8 @@
         ]
     },
     {
-        "setName": "Chilling Reign (CRE)",
+        "setName": "Chilling Reign",
+        "image": "https://den-media.pokellector.com/logos/Chilling-Reign.logo.320.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH6-001-weedle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH6-002-kakuna.jpg",
@@ -3211,7 +3236,8 @@
         ]
     },
     {
-        "setName": "Cosmic Eclipse (CEC)",
+        "setName": "Cosmic Eclipse",
+        "image": "https://den-media.pokellector.com/logos/Cosmic-Eclipse.logo.280.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM12-001-venusaur_snivy_gx.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM12-002-oddish.jpg",
@@ -3488,7 +3514,8 @@
         ]
     },
     {
-        "setName": "Crimson Invasion (CIN)",
+        "setName": "Crimson Invasion",
+        "image": "https://den-media.pokellector.com/logos/Crimson-Invasion.logo.229.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM4-001-weedle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM4-002-kakuna.jpg",
@@ -3625,7 +3652,8 @@
         ]
     },
     {
-        "setName": "Crown Zenith (CRZ)",
+        "setName": "Crown Zenith",
+        "image": "https://den-media.pokellector.com/logos/Crown-Zenith.logo.358.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-CZ-001-oddish.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-CZ-002-gloom.jpg",
@@ -3860,7 +3888,8 @@
         ]
     },
     {
-        "setName": "Crystal Guardians (CG)",
+        "setName": "Crystal Guardians",
+        "image": "https://den-media.pokellector.com/logos/EX-Crystal-Guardians.logo.65.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aggron-ex-crystal-guardians-cg-89.jpg",
             "https://pkmncards.com/wp-content/uploads/alakazam-star-crystal-guardians-cg-99.jpg",
@@ -3965,7 +3994,8 @@
         ]
     },
     {
-        "setName": "Dark Explorers (DEX)",
+        "setName": "Dark Explorers",
+        "image": "https://den-media.pokellector.com/logos/Dark-Explorers.logo.6.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW5-001-bulbasaur.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW5-002-ivysaur.jpg",
@@ -4081,7 +4111,8 @@
         ]
     },
     {
-        "setName": "Darkness Ablaze (DAA)",
+        "setName": "Darkness Ablaze",
+        "image": "https://den-media.pokellector.com/logos/Darkness-Ablaze.logo.296.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH3-001-butterfree_v.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH3-002-butterfree_vmax.jpg",
@@ -4287,7 +4318,8 @@
         ]
     },
     {
-        "setName": "Delta Species (DS)",
+        "setName": "Delta Species",
+        "image": "https://den-media.pokellector.com/logos/EX-Delta-Species.logo.62.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/azumarill-d-delta-species-ds-19.jpg",
             "https://pkmncards.com/wp-content/uploads/azumarill-delta-species-ds-114.jpg",
@@ -4406,7 +4438,8 @@
         ]
     },
     {
-        "setName": "Deoxys (DX)",
+        "setName": "Deoxys",
+        "image": "https://den-media.pokellector.com/logos/EX-Deoxys.logo.59.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/altaria-deoxys-dx-1.jpg",
             "https://pkmncards.com/wp-content/uploads/bagon-deoxys-dx-52.jpg",
@@ -4519,7 +4552,8 @@
         ]
     },
     {
-        "setName": "Detective Pikachu (DET)",
+        "setName": "Detective Pikachu",
+        "image": "https://den-media.pokellector.com/logos/Detective-Pikachu.logo.270.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-GUM-001-bulbasaur.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-GUM-002-ludicolo.jpg",
@@ -4542,7 +4576,8 @@
         ]
     },
     {
-        "setName": "Diamond & Pearl (DP)",
+        "setName": "Diamond & Pearl",
+        "image": "https://den-media.pokellector.com/logos/Diamond-Pearl.logo.42.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/azumarill-diamond-pearl-dp-18.jpg",
             "https://pkmncards.com/wp-content/uploads/azurill-diamond-pearl-dp-69.jpg",
@@ -4678,6 +4713,7 @@
     },
     {
         "setName": "Diamond & Pearl Promos",
+        "image": "https://den-media.pokellector.com/logos/Diamond-Pearl.logo.42.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/arceus-diamond-pearl-promos-dp50.jpg",
             "https://pkmncards.com/wp-content/uploads/arceus-lv.x-diamond-pearl-promos-dp53.jpg",
@@ -4738,7 +4774,8 @@
         ]
     },
     {
-        "setName": "Double Crisis (DCR)",
+        "setName": "Double Crisis",
+        "image": "https://den-media.pokellector.com/logos/Double-Crisis.logo.172.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TATM-001-team_magmas_numel.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TATM-002-team_magmas_camerupt.jpg",
@@ -4777,7 +4814,8 @@
         ]
     },
     {
-        "setName": "Dragon (DR)",
+        "setName": "Dragon",
+        "image": "https://den-media.pokellector.com/logos/EX-Dragon.logo.54.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-EX3-001-absol.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-EX3-002-altaria.jpg",
@@ -4882,7 +4920,8 @@
         ]
     },
     {
-        "setName": "Dragon Frontiers (DF)",
+        "setName": "Dragon Frontiers",
+        "image": "https://den-media.pokellector.com/logos/EX-Dragon-Frontiers.logo.66.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/altaria-ex-delta-dragon-frontiers-df-90.jpg",
             "https://pkmncards.com/wp-content/uploads/ampharos-delta-dragon-frontiers-df-1.jpg",
@@ -4988,7 +5027,8 @@
         ]
     },
     {
-        "setName": "Dragon Majesty (DRM)",
+        "setName": "Dragon Majesty",
+        "image": "https://den-media.pokellector.com/logos/Dragon-Majesty.logo.257.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-DM-001-charmander.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-DM-002-charmeleon.jpg",
@@ -5081,7 +5121,8 @@
         ]
     },
     {
-        "setName": "Dragon Vault (DRV)",
+        "setName": "Dragon Vault",
+        "image": "https://den-media.pokellector.com/logos/Dragon-Vault.logo.8.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-DV-001-dratini.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-DV-002-dratini.jpg",
@@ -5107,7 +5148,8 @@
         ]
     },
     {
-        "setName": "Dragons Exalted (DRX)",
+        "setName": "Dragons Exalted",
+        "image": "https://den-media.pokellector.com/logos/Dragons-Exalted.logo.2.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW6-001-hoppip.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW6-002-skiploom.jpg",
@@ -5240,7 +5282,8 @@
         ]
     },
     {
-        "setName": "EX Trainer Kit—Latias (TK1A)",
+        "setName": "EX Trainer Kit—Latias",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK1A-001-bagon.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK1A-002-combusken.jpg",
@@ -5252,7 +5295,8 @@
         ]
     },
     {
-        "setName": "EX Trainer Kit—Latios (TK1O)",
+        "setName": "EX Trainer Kit—Latios",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK1O-001-electrike.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK1O-002-latios.jpg",
@@ -5264,7 +5308,8 @@
         ]
     },
     {
-        "setName": "EX Trainer Kit—Minun (TK2M)",
+        "setName": "EX Trainer Kit—Minun",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/arcanine-ex-trainer-kit-minun-tk2m-1.jpg",
             "https://pkmncards.com/wp-content/uploads/charmander-ex-trainer-kit-minun-tk2m-2.jpg",
@@ -5275,7 +5320,8 @@
         ]
     },
     {
-        "setName": "EX Trainer Kit—Plusle (TK2P)",
+        "setName": "EX Trainer Kit—Plusle",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/beldum-ex-trainer-kit-plusle-tk2p-1.jpg",
             "https://pkmncards.com/wp-content/uploads/meowth-ex-trainer-kit-plusle-tk2p-4.jpg",
@@ -5283,7 +5329,8 @@
         ]
     },
     {
-        "setName": "Emerald (EM)",
+        "setName": "Emerald",
+        "image": "https://den-media.pokellector.com/logos/EX-Emerald.logo.60.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/altaria-ex-emerald-em-90.jpg",
             "https://pkmncards.com/wp-content/uploads/baltoy-emerald-em-43.jpg",
@@ -5395,7 +5442,8 @@
         ]
     },
     {
-        "setName": "Emerging Powers (EPO)",
+        "setName": "Emerging Powers",
+        "image": "https://den-media.pokellector.com/logos/Emerging-Powers.logo.3.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW2-001-pansage.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW2-002-simisage.jpg",
@@ -5498,7 +5546,8 @@
         ]
     },
     {
-        "setName": "Evolutions (EVO)",
+        "setName": "Evolutions",
+        "image": "https://den-media.pokellector.com/logos/Evolutions.logo.197.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY12-001-venusaur_ex.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY12-002-m_venusaur_ex.jpg",
@@ -5616,7 +5665,8 @@
         ]
     },
     {
-        "setName": "Evolving Skies (EVS)",
+        "setName": "Evolving Skies",
+        "image": "https://den-media.pokellector.com/logos/Evolving-Skies.logo.325.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH7-001-pinsir-1.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH7-002-hoppip.jpg",
@@ -5859,6 +5909,7 @@
     },
     {
         "setName": "Expedition (EX)",
+        "image": "https://den-media.pokellector.com/logos/Expedition.logo.109.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abra-expedition-ex-93.jpg",
             "https://pkmncards.com/wp-content/uploads/alakazam-expedition-ex-1.jpg",
@@ -6028,7 +6079,8 @@
         ]
     },
     {
-        "setName": "Fates Collide (FCO)",
+        "setName": "Fates Collide",
+        "image": "https://den-media.pokellector.com/logos/Fates-Collide.logo.188.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY10-001-shuckle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY10-002-burmy.jpg",
@@ -6162,7 +6214,8 @@
         ]
     },
     {
-        "setName": "FireRed & LeafGreen (RG)",
+        "setName": "FireRed & LeafGreen",
+        "image": "https://den-media.pokellector.com/logos/EX-FireRed-LeafGreen.logo.57.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-EX06-001-beedrill.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-EX06-002-butterfree.jpg",
@@ -6283,7 +6336,8 @@
         ]
     },
     {
-        "setName": "Flashfire (FLF)",
+        "setName": "Flashfire",
+        "image": "https://den-media.pokellector.com/logos/XY-Flashfire.logo.155.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY2-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY2-002-metapod.jpg",
@@ -6398,7 +6452,8 @@
         ]
     },
     {
-        "setName": "Forbidden Light (FLI)",
+        "setName": "Forbidden Light",
+        "image": "https://den-media.pokellector.com/logos/Forbidden-Light.logo.239.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM6-001-exeggcute.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM6-002-alolan_exeggutor.jpg",
@@ -6568,7 +6623,8 @@
         ]
     },
     {
-        "setName": "Fossil (FO)",
+        "setName": "Fossil",
+        "image": "https://den-media.pokellector.com/logos/Fossil.logo.121.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aerodactyl-fossil-fo-1.jpg",
             "https://pkmncards.com/wp-content/uploads/aerodactyl-fossil-fo-16.jpg",
@@ -6635,7 +6691,8 @@
         ]
     },
     {
-        "setName": "Furious Fists (FFI)",
+        "setName": "Furious Fists",
+        "image": "https://den-media.pokellector.com/logos/Furious-Fists.logo.159.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY3-001-bellsprout.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY3-002-weepinbell.jpg",
@@ -6754,7 +6811,8 @@
         ]
     },
     {
-        "setName": "Fusion Strike (FST)",
+        "setName": "Fusion Strike",
+        "image": "https://den-media.pokellector.com/logos/Fusion-Strike.logo.335.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH8-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH8-002-metapod.jpg",
@@ -7043,7 +7101,8 @@
         ]
     },
     {
-        "setName": "Generations (GEN)",
+        "setName": "Generations",
+        "image": "https://den-media.pokellector.com/logos/Generations.logo.187.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TwentiethAnn-001-venusaur_ex.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TwentiethAnn-002-m_venusaur_ex.jpg",
@@ -7165,7 +7224,8 @@
         ]
     },
     {
-        "setName": "Great Encounters (GE)",
+        "setName": "Great Encounters",
+        "image": "https://den-media.pokellector.com/logos/Great-Encounters.logo.45.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/altaria-great-encounters-ge-12.jpg",
             "https://pkmncards.com/wp-content/uploads/amulet-coin-great-encounters-ge-97.jpg",
@@ -7276,7 +7336,8 @@
         ]
     },
     {
-        "setName": "Guardians Rising (GRI)",
+        "setName": "Guardians Rising",
+        "image": "https://den-media.pokellector.com/logos/Guardians-Rising.logo.220.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM2-001-bellsprout.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM2-002-weepinbell.jpg",
@@ -7475,7 +7536,8 @@
         ]
     },
     {
-        "setName": "Gym Challenge (G2)",
+        "setName": "Gym Challenge",
+        "image": "https://den-media.pokellector.com/logos/Gym-Challenge.logo.118.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/blaine-gym-challenge-100.jpg",
             "https://pkmncards.com/wp-content/uploads/blaine-gym-challenge-17.jpg",
@@ -7612,7 +7674,8 @@
         ]
     },
     {
-        "setName": "Gym Heroes (G1)",
+        "setName": "Gym Heroes",
+        "image": "https://den-media.pokellector.com/logos/Gym-Heroes.logo.117.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/blaines-charmander-gym-heroes-61.jpg",
             "https://pkmncards.com/wp-content/uploads/blaines-gamble-gym-heroes-121.jpg",
@@ -7750,6 +7813,7 @@
     },
     {
         "setName": "HS Energy (2010 Unnumbered)",
+        "image": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver.logo.34.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-HS_Energy-001-grass_energy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-HS_Energy-002-fire_energy.jpg",
@@ -7762,7 +7826,8 @@
         ]
     },
     {
-        "setName": "HeartGold & SoulSilver (HS)",
+        "setName": "HeartGold & SoulSilver",
+        "image": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver.logo.34.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS1-001-arcanine.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS1-002-azumarill.jpg",
@@ -7892,6 +7957,7 @@
     },
     {
         "setName": "HeartGold & SoulSilver Promos",
+        "image": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver-Promos.logo.107.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_HGSS-HGSS01-ho_oh.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_HGSS-HGSS02-lugia.jpg",
@@ -7921,7 +7987,8 @@
         ]
     },
     {
-        "setName": "Hidden Fates (HIF)",
+        "setName": "Hidden Fates",
+        "image": "https://den-media.pokellector.com/logos/Hidden-Fates.logo.279.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-HF-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-HF-002-metapod.jpg",
@@ -7995,7 +8062,8 @@
         ]
     },
     {
-        "setName": "Hidden Legends (HL)",
+        "setName": "Hidden Legends",
+        "image": "https://den-media.pokellector.com/logos/EX-Hidden-Legends.logo.56.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/ancient-technical-machine-ice-hidden-legends-hl-84.jpg",
             "https://pkmncards.com/wp-content/uploads/ancient-technical-machine-rock-hidden-legends-hl-85.jpg",
@@ -8102,7 +8170,8 @@
         ]
     },
     {
-        "setName": "Holon Phantoms (HP)",
+        "setName": "Holon Phantoms",
+        "image": "https://den-media.pokellector.com/logos/EX-Holon-Phantoms.logo.64.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/absol-holon-phantoms-hp-18.jpg",
             "https://pkmncards.com/wp-content/uploads/aerodactyl-delta-holon-phantoms-hp-35.jpg",
@@ -8218,7 +8287,8 @@
         ]
     },
     {
-        "setName": "Jungle (JU)",
+        "setName": "Jungle",
+        "image": "https://den-media.pokellector.com/logos/Jungle.logo.120.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/bellsprout-jungle-ju-49.jpg",
             "https://pkmncards.com/wp-content/uploads/butterfree-jungle-ju-33.jpg",
@@ -8287,7 +8357,8 @@
         ]
     },
     {
-        "setName": "Kalos Starter Set (KSS)",
+        "setName": "Kalos Starter Set",
+        "image": "https://den-media.pokellector.com/logos/Kalos-Starter-Set.logo.150.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY0-001-weedle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY0-002-pansage.jpg",
@@ -8331,7 +8402,8 @@
         ]
     },
     {
-        "setName": "Legend Maker (LM)",
+        "setName": "Legend Maker",
+        "image": "https://den-media.pokellector.com/logos/EX-Legend-Maker.logo.63.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/absol-legend-maker-lm-15.jpg",
             "https://pkmncards.com/wp-content/uploads/aerodactyl-legend-maker-lm-1.jpg",
@@ -8429,7 +8501,8 @@
         ]
     },
     {
-        "setName": "Legendary Collection (LC)",
+        "setName": "Legendary Collection",
+        "image": "https://den-media.pokellector.com/logos/Legendary-Collection.logo.112.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abra-legendary-collection-lc-67.jpg",
             "https://pkmncards.com/wp-content/uploads/alakazam-legendary-collection-lc-1.jpg",
@@ -8544,7 +8617,8 @@
         ]
     },
     {
-        "setName": "Legendary Treasures (LTR)",
+        "setName": "Legendary Treasures",
+        "image": "https://den-media.pokellector.com/logos/Legendary-Treasures.logo.138.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW11-001-tangela.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW11-002-tangrowth.jpg",
@@ -8689,7 +8763,8 @@
         ]
     },
     {
-        "setName": "Legends Awakened (LA)",
+        "setName": "Legends Awakened",
+        "image": "https://den-media.pokellector.com/logos/Legends-Awakened.logo.47.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/anorith-legends-awakened-la-46.jpg",
             "https://pkmncards.com/wp-content/uploads/armaldo-legends-awakened-la-18.jpg",
@@ -8840,7 +8915,8 @@
         ]
     },
     {
-        "setName": "Lost Origin (LOR)",
+        "setName": "Lost Origin",
+        "image": "https://den-media.pokellector.com/logos/Lost-Origin.logo.350.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH11-001-oddish-1.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH11-002-gloom-1.jpg",
@@ -9092,7 +9168,8 @@
         ]
     },
     {
-        "setName": "Lost Thunder (LOT)",
+        "setName": "Lost Thunder",
+        "image": "https://den-media.pokellector.com/logos/Lost-Thunder.logo.259.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM8-001-tangela.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM8-002-tangrowth.jpg",
@@ -9338,7 +9415,8 @@
         ]
     },
     {
-        "setName": "Majestic Dawn (MD)",
+        "setName": "Majestic Dawn",
+        "image": "https://den-media.pokellector.com/logos/Majestic-Dawn.logo.46.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aerodactyl-majestic-dawn-md-15.jpg",
             "https://pkmncards.com/wp-content/uploads/aipom-majestic-dawn-md-50.jpg",
@@ -9443,7 +9521,8 @@
         ]
     },
     {
-        "setName": "McDonald's Collection 2011 (MCD11)",
+        "setName": "McDonald's Collection 2011",
+        "image": "https://den-media.pokellector.com/logos/McDonalds-Promos-2011.logo.10.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-MCD11-001-snivy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-MCD11-002-maractus.jpg",
@@ -9460,7 +9539,8 @@
         ]
     },
     {
-        "setName": "McDonald's Collection 2012 (MCD12)",
+        "setName": "McDonald's Collection 2012",
+        "image": "https://den-media.pokellector.com/logos/McDonalds-Promos-2012.logo.11.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/axew-mcdonalds-collection-2012-mcd-12.jpg",
             "https://pkmncards.com/wp-content/uploads/dewott-mcdonalds-collection-2012-mcd-5.jpg",
@@ -9477,7 +9557,8 @@
         ]
     },
     {
-        "setName": "McDonald's Collection 2016 (MCD16)",
+        "setName": "McDonald's Collection 2016",
+        "image": "https://den-media.pokellector.com/logos/McDonalds-Collection-2016.logo.207.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-MCD16-001-vulpix.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-MCD16-002-torchic.jpg",
@@ -9494,7 +9575,8 @@
         ]
     },
     {
-        "setName": "McDonald's Collection 2019 (MCD19)",
+        "setName": "McDonald's Collection 2019",
+        "image": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019.logo.290.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-MCD19-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-MCD19-002-alolan_exeggutor.jpg",
@@ -9511,7 +9593,8 @@
         ]
     },
     {
-        "setName": "McDonald's Collection 2021 (MCD21)",
+        "setName": "McDonald's Collection 2021",
+        "image": "https://den-media.pokellector.com/logos/McDonalds-25th-Anniversary.logo.300.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-MCD21-001-bulbasaur.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-MCD21-002-chikorita.jpg",
@@ -9541,7 +9624,8 @@
         ]
     },
     {
-        "setName": "McDonald's Collection 2022 (MCD22)",
+        "setName": "McDonald's Collection 2022",
+        "image": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle.logo.353.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-MCD22-001-ledyba.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-MCD22-002-rowlet.jpg",
@@ -9561,7 +9645,8 @@
         ]
     },
     {
-        "setName": "McDonald's Match Battle 2023 (M23)",
+        "setName": "McDonald's Match Battle 2023",
+        "image": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle-2023.logo.372.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/m23_en_001_std.jpg",
             "https://pkmncards.com/wp-content/uploads/m23_en_002_std.jpg",
@@ -9581,7 +9666,8 @@
         ]
     },
     {
-        "setName": "Mysterious Treasures (MT)",
+        "setName": "Mysterious Treasures",
+        "image": "https://den-media.pokellector.com/logos/Mysterious-Treasures.logo.43.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abomasnow-mysterious-treasures-mt-19.jpg",
             "https://pkmncards.com/wp-content/uploads/abra-mysterious-treasures-mt-69.jpg",
@@ -9710,7 +9796,8 @@
         ]
     },
     {
-        "setName": "Neo Destiny (N4)",
+        "setName": "Neo Destiny",
+        "image": "https://den-media.pokellector.com/logos/Neo-Destiny.logo.116.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/broken-ground-gym-neo-destiny-92.jpg",
             "https://pkmncards.com/wp-content/uploads/chansey-neo-destiny-31.jpg",
@@ -9828,7 +9915,8 @@
         ]
     },
     {
-        "setName": "Neo Discovery (N2)",
+        "setName": "Neo Discovery",
+        "image": "https://den-media.pokellector.com/logos/Neo-Discovery.logo.114.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/beedrill-neo-discovery-18.jpg",
             "https://pkmncards.com/wp-content/uploads/butterfree-neo-discovery-19.jpg",
@@ -9908,7 +9996,8 @@
         ]
     },
     {
-        "setName": "Neo Genesis (N1)",
+        "setName": "Neo Genesis",
+        "image": "https://den-media.pokellector.com/logos/Neo-Genesis.logo.113.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aipom-neo-genesis-26.jpg",
             "https://pkmncards.com/wp-content/uploads/ampharos-neo-genesis-1.jpg",
@@ -10024,7 +10113,8 @@
         ]
     },
     {
-        "setName": "Neo Revelation (N3)",
+        "setName": "Neo Revelation",
+        "image": "https://den-media.pokellector.com/logos/Neo-Revelation.logo.115.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aerodactyl-neo-revelation-15.jpg",
             "https://pkmncards.com/wp-content/uploads/aipom-neo-revelation-41.jpg",
@@ -10095,7 +10185,8 @@
         ]
     },
     {
-        "setName": "Next Destinies (NXD)",
+        "setName": "Next Destinies",
+        "image": "https://den-media.pokellector.com/logos/Next-Destinies.logo.5.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW4-001-pinsir.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW4-002-seedot.jpg",
@@ -10204,6 +10295,7 @@
     },
     {
         "setName": "Nintendo Black Star Promos",
+        "image": "https://den-media.pokellector.com/logos/DP-Black-Star-Promos.logo.101.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/articuno-ex-nintendo-black-star-promos-032.jpg",
             "https://pkmncards.com/wp-content/uploads/beldum-nintendo-black-star-promos-022.jpg",
@@ -10248,7 +10340,8 @@
         ]
     },
     {
-        "setName": "Noble Victories (NVI)",
+        "setName": "Noble Victories",
+        "image": "https://den-media.pokellector.com/logos/Noble-Victories.logo.4.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW3-001-sewaddle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW3-002-swadloon.jpg",
@@ -10355,7 +10448,8 @@
         ]
     },
     {
-        "setName": "Obsidian Flames (OBF)",
+        "setName": "Obsidian Flames",
+        "image": "https://den-media.pokellector.com/logos/Obsidian-Flames.logo.373.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv3_en_001.jpg",
             "https://pkmncards.com/wp-content/uploads/sv3_en_002.jpg",
@@ -10590,7 +10684,8 @@
         ]
     },
     {
-        "setName": "POP Series 1 (P1)",
+        "setName": "POP Series 1",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-1.logo.68.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/armaldo-ex-pop-series-1-16.jpg",
             "https://pkmncards.com/wp-content/uploads/beautifly-pop-series-1-6.jpg",
@@ -10612,7 +10707,8 @@
         ]
     },
     {
-        "setName": "POP Series 2 (P2)",
+        "setName": "POP Series 2",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-2.logo.69.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/bulbasaur-pop-series-2-12.jpg",
             "https://pkmncards.com/wp-content/uploads/cacnea-pop-series-2-13.jpg",
@@ -10634,7 +10730,8 @@
         ]
     },
     {
-        "setName": "POP Series 3 (P3)",
+        "setName": "POP Series 3",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-3.logo.70.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/blastoise-pop-series-3-1.jpg",
             "https://pkmncards.com/wp-content/uploads/combusken-pop-series-3-7.jpg",
@@ -10656,7 +10753,8 @@
         ]
     },
     {
-        "setName": "POP Series 4 (P4)",
+        "setName": "POP Series 4",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-4.logo.71.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/chimecho-delta-pop-series-4-1.jpg",
             "https://pkmncards.com/wp-content/uploads/combusken-pop-series-4-6.jpg",
@@ -10678,7 +10776,8 @@
         ]
     },
     {
-        "setName": "POP Series 5 (P5)",
+        "setName": "POP Series 5",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-5.logo.102.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/bills-maintenance-pop-series-5-6.jpg",
             "https://pkmncards.com/wp-content/uploads/boost-energy-pop-series-5-8.jpg",
@@ -10700,7 +10799,8 @@
         ]
     },
     {
-        "setName": "POP Series 6 (P6)",
+        "setName": "POP Series 6",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-6.logo.103.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/bastiodon-pop-series-6-1.jpg",
             "https://pkmncards.com/wp-content/uploads/bidoof-pop-series-6-11.jpg",
@@ -10722,7 +10822,8 @@
         ]
     },
     {
-        "setName": "POP Series 7 (P7)",
+        "setName": "POP Series 7",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-7.logo.104.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/ampharos-pop-series-7-1.jpg",
             "https://pkmncards.com/wp-content/uploads/burmy-plant-cloak-pop-series-7-11.jpg",
@@ -10744,7 +10845,8 @@
         ]
     },
     {
-        "setName": "POP Series 8 (P8)",
+        "setName": "POP Series 8",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-8.logo.105.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/carnivine-pop-series-8-7.jpg",
             "https://pkmncards.com/wp-content/uploads/cherrim-pop-series-8-6.jpg",
@@ -10766,7 +10868,8 @@
         ]
     },
     {
-        "setName": "POP Series 9 (P9)",
+        "setName": "POP Series 9",
+        "image": "https://den-media.pokellector.com/logos/POP-Series-9.logo.106.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/buizel-pop-series-9-6.jpg",
             "https://pkmncards.com/wp-content/uploads/buneary-pop-series-9-12.jpg",
@@ -10788,7 +10891,8 @@
         ]
     },
     {
-        "setName": "Paldea Evolved (PAL)",
+        "setName": "Paldea Evolved",
+        "image": "https://den-media.pokellector.com/logos/Paldea-Evolved.logo.367.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv2_en_001.jpg",
             "https://pkmncards.com/wp-content/uploads/sv2_en_002.jpg",
@@ -11072,7 +11176,8 @@
         ]
     },
     {
-        "setName": "Paldean Fates (PAF)",
+        "setName": "Paldean Fates",
+        "image": "https://den-media.pokellector.com/logos/Paldean-Fates.logo.384.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv4-5_en_001_std.jpg",
             "https://pkmncards.com/wp-content/uploads/sv4-5_en_002_std.jpg",
@@ -11322,7 +11427,8 @@
         ]
     },
     {
-        "setName": "Paradox Rift (PAR)",
+        "setName": "Paradox Rift",
+        "image": "https://den-media.pokellector.com/logos/Paradox-Rift.logo.377.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv4_en_001_std.jpg",
             "https://pkmncards.com/wp-content/uploads/sv4_en_002_std.jpg",
@@ -11593,7 +11699,8 @@
         ]
     },
     {
-        "setName": "Phantom Forces (PHF)",
+        "setName": "Phantom Forces",
+        "image": "https://den-media.pokellector.com/logos/Phantom-Forces.logo.162.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY4-001-venonat.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY4-002-venomoth.jpg",
@@ -11722,7 +11829,8 @@
         ]
     },
     {
-        "setName": "Plasma Blast (PLB)",
+        "setName": "Plasma Blast",
+        "image": "https://den-media.pokellector.com/logos/Plasma-Blast.logo.131.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW10-001-surskit.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW10-002-masquerain.jpg",
@@ -11832,7 +11940,8 @@
         ]
     },
     {
-        "setName": "Plasma Freeze (PLF)",
+        "setName": "Plasma Freeze",
+        "image": "https://den-media.pokellector.com/logos/Plasma-Freeze.logo.51.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW9-001-weedle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW9-002-kakuna.jpg",
@@ -11959,7 +12068,8 @@
         ]
     },
     {
-        "setName": "Plasma Storm (PLS)",
+        "setName": "Plasma Storm",
+        "image": "https://den-media.pokellector.com/logos/Plasma-Storm.logo.26.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-BW8-001-turtwig.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-BW8-002-grotle.jpg",
@@ -12102,7 +12212,8 @@
         ]
     },
     {
-        "setName": "Platinum (PL)",
+        "setName": "Platinum",
+        "image": "https://den-media.pokellector.com/logos/Platinum.logo.38.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/altaria-platinum-pl-18.jpg",
             "https://pkmncards.com/wp-content/uploads/ampharos-platinum-pl-1.jpg",
@@ -12240,7 +12351,8 @@
         ]
     },
     {
-        "setName": "Pokémon Futsal Promos 2020 (FUT20)",
+        "setName": "Pokémon Futsal Promos 2020",
+        "image": "https://den-media.pokellector.com/logos/Pokemon-Futsal-Promos.logo.303.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-FUT2020-001-pikachu_on_the_ball.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-FUT2020-002-eevee_on_the_ball.jpg",
@@ -12250,7 +12362,8 @@
         ]
     },
     {
-        "setName": "Pokémon GO (PGO)",
+        "setName": "Pokémon GO",
+        "image": "https://den-media.pokellector.com/logos/Pokemon-Go.logo.346.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-PGO-001-bulbasaur.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-PGO-002-ivysaur.jpg",
@@ -12343,7 +12456,8 @@
         ]
     },
     {
-        "setName": "Pokémon Trading Card Game Classic—Blastoise (CLB)",
+        "setName": "Pokémon Trading Card Game Classic—Blastoise",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/Pokemon_Trading_Card_Game_Classic_10_Suicune_ex-e1704716552172.jpg",
             "https://pkmncards.com/wp-content/uploads/Pokemon_Trading_Card_Game_Classic_13_Mr._Mime-e1704716722689.jpg",
@@ -12382,7 +12496,8 @@
         ]
     },
     {
-        "setName": "Pokémon Trading Card Game Classic—Charizard (CLC)",
+        "setName": "Pokémon Trading Card Game Classic—Charizard",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/Pokemon_Trading_Card_Game_Classic_26_Scorching_Charcoal-e1704716937422.jpg",
             "https://pkmncards.com/wp-content/uploads/Pokemon_Trading_Card_Game_Classic_7_Ho-Oh_ex-e1704716686322.jpg",
@@ -12421,7 +12536,8 @@
         ]
     },
     {
-        "setName": "Pokémon Trading Card Game Classic—Venusaur (CLV)",
+        "setName": "Pokémon Trading Card Game Classic—Venusaur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/Pokemon_Trading_Card_Game_Classic_17_Lugia_ex-e1704716818338.jpg",
             "https://pkmncards.com/wp-content/uploads/Pokemon_Trading_Card_Game_Classic_27_Sun_Seed-e1704717040434.jpg",
@@ -12460,7 +12576,8 @@
         ]
     },
     {
-        "setName": "Power Keepers (PK)",
+        "setName": "Power Keepers",
+        "image": "https://den-media.pokellector.com/logos/EX-Power-Keepers.logo.67.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/absol-ex-power-keepers-pk-92.jpg",
             "https://pkmncards.com/wp-content/uploads/aggron-power-keepers-pk-1.jpg",
@@ -12573,7 +12690,8 @@
         ]
     },
     {
-        "setName": "Primal Clash (PRC)",
+        "setName": "Primal Clash",
+        "image": "https://den-media.pokellector.com/logos/Primal-Clash.logo.166.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY5-001-weedle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY5-002-kakuna.jpg",
@@ -12742,7 +12860,8 @@
         ]
     },
     {
-        "setName": "Rebel Clash (RCL)",
+        "setName": "Rebel Clash",
+        "image": "https://den-media.pokellector.com/logos/Rebel-Clash.logo.292.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH2-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH2-002-metapod.jpg",
@@ -12956,7 +13075,8 @@
         ]
     },
     {
-        "setName": "Rising Rivals (RR)",
+        "setName": "Rising Rivals",
+        "image": "https://den-media.pokellector.com/logos/Platinum-Rising-Rivals.logo.39.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aarons-collection-rising-rivals-rr-88.jpg",
             "https://pkmncards.com/wp-content/uploads/aerodactyl-gl-rising-rivals-rr-55.jpg",
@@ -13081,7 +13201,8 @@
         ]
     },
     {
-        "setName": "Roaring Skies (ROS)",
+        "setName": "Roaring Skies",
+        "image": "https://den-media.pokellector.com/logos/Roaring-Skies.logo.169.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY6-001-exeggcute.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY6-002-exeggutor.jpg",
@@ -13198,7 +13319,8 @@
         ]
     },
     {
-        "setName": "Ruby & Sapphire (RS)",
+        "setName": "Ruby & Sapphire",
+        "image": "https://den-media.pokellector.com/logos/Ruby-Sapphire.logo.49.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aggron-ruby-sapphire-rs-1.jpg",
             "https://pkmncards.com/wp-content/uploads/aron-ruby-sapphire-rs-49.jpg",
@@ -13312,7 +13434,8 @@
         ]
     },
     {
-        "setName": "Rumble (RM)",
+        "setName": "Rumble",
+        "image": "https://den-media.pokellector.com/logos/Pokemon-Rumble.logo.52.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/bastiodon-rumble-ru-14.jpg",
             "https://pkmncards.com/wp-content/uploads/bibarel-rumble-ru-16.jpg",
@@ -13333,7 +13456,8 @@
         ]
     },
     {
-        "setName": "Sandstorm (SS)",
+        "setName": "Sandstorm",
+        "image": "https://den-media.pokellector.com/logos/EX-Sandstorm.logo.53.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aerodactyl-ex-sandstorm-ss-94.jpg",
             "https://pkmncards.com/wp-content/uploads/aggron-ex-sandstorm-ss-95.jpg",
@@ -13438,7 +13562,8 @@
         ]
     },
     {
-        "setName": "Scarlet & Violet (SVI)",
+        "setName": "Scarlet & Violet",
+        "image": "https://den-media.pokellector.com/logos/Scarlet-Violet.logo.363.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv1_en_001-1.jpg",
             "https://pkmncards.com/wp-content/uploads/sv1_en_002-1.jpg",
@@ -13701,7 +13826,8 @@
         ]
     },
     {
-        "setName": "Scarlet & Violet Energy (SVE)",
+        "setName": "Scarlet & Violet Energy",
+        "image": "https://den-media.pokellector.com/logos/Scarlet-Violet.logo.363.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sve_en_001.jpg",
             "https://pkmncards.com/wp-content/uploads/sve_en_002.jpg",
@@ -13714,7 +13840,8 @@
         ]
     },
     {
-        "setName": "Scarlet & Violet Promos (SVP)",
+        "setName": "Scarlet & Violet Promos",
+        "image": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.logo.364.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_SV-004-mimikyu_ex.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_SV-015-flaaffy.jpg",
@@ -13856,7 +13983,8 @@
         ]
     },
     {
-        "setName": "Secret Wonders (SW)",
+        "setName": "Secret Wonders",
+        "image": "https://den-media.pokellector.com/logos/Secret-Wonders.logo.44.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/absol-secret-wonders-sw-21.jpg",
             "https://pkmncards.com/wp-content/uploads/ampharos-secret-wonders-sw-1.jpg",
@@ -13993,7 +14121,8 @@
         ]
     },
     {
-        "setName": "Shining Fates (SHF)",
+        "setName": "Shining Fates",
+        "image": "https://den-media.pokellector.com/logos/Shining-Fates.logo.304.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SF-001-yanma.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SF-002-yanmega.jpg",
@@ -14193,7 +14322,8 @@
         ]
     },
     {
-        "setName": "Shining Legends (SLG)",
+        "setName": "Shining Legends",
+        "image": "https://den-media.pokellector.com/logos/Shining-Legends.logo.231.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SL-001-bulbasaur.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SL-002-ivysaur.jpg",
@@ -14281,7 +14411,8 @@
         ]
     },
     {
-        "setName": "Shrouded Fable (SFA)",
+        "setName": "Shrouded Fable",
+        "image": "https://den-media.pokellector.com/logos/Shrouded-Fable.logo.399.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv6-5_en_001_std.jpg",
             "https://pkmncards.com/wp-content/uploads/sv6-5_en_002_std.jpg",
@@ -14385,7 +14516,8 @@
         ]
     },
     {
-        "setName": "Silver Tempest (SIT)",
+        "setName": "Silver Tempest",
+        "image": "https://den-media.pokellector.com/logos/Silver-Tempest.logo.354.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH12-001-venonat.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH12-002-venomoth.jpg",
@@ -14635,7 +14767,8 @@
         ]
     },
     {
-        "setName": "Skyridge (SK)",
+        "setName": "Skyridge",
+        "image": "https://den-media.pokellector.com/logos/Skyridge.logo.111.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abra-skyridge-sk-46.jpg",
             "https://pkmncards.com/wp-content/uploads/aerodactyl-skyridge-sk-1.jpg",
@@ -14822,7 +14955,8 @@
         ]
     },
     {
-        "setName": "Southern Islands (SI)",
+        "setName": "Southern Islands",
+        "image": "https://den-media.pokellector.com/logos/Southern-Islands.logo.124.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/butterfree-southern-islands-si-9.jpg",
             "https://pkmncards.com/wp-content/uploads/exeggutor-southern-islands-si-13.jpg",
@@ -14845,7 +14979,8 @@
         ]
     },
     {
-        "setName": "Steam Siege (STS)",
+        "setName": "Steam Siege",
+        "image": "https://den-media.pokellector.com/logos/Steam-Siege.logo.192.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY11-001-tangela.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY11-002-tangrowth.jpg",
@@ -14966,7 +15101,8 @@
         ]
     },
     {
-        "setName": "Stormfront (SF)",
+        "setName": "Stormfront",
+        "image": "https://den-media.pokellector.com/logos/Stormfront.logo.48.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abomasnow-stormfront-sf-12.jpg",
             "https://pkmncards.com/wp-content/uploads/bagon-stormfront-sf-53.jpg",
@@ -15077,7 +15213,8 @@
         ]
     },
     {
-        "setName": "Sun & Moon (SUM)",
+        "setName": "Sun & Moon",
+        "image": "https://den-media.pokellector.com/logos/Sun-Moon.logo.205.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM1-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM1-002-metapod.jpg",
@@ -15253,6 +15390,7 @@
     },
     {
         "setName": "Sun & Moon Energy",
+        "image": "https://den-media.pokellector.com/logos/Sun-Moon.logo.205.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM_Energy-001-grass_energy-1.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM_Energy-002-fire_energy-1.jpg",
@@ -15267,6 +15405,7 @@
     },
     {
         "setName": "Sun & Moon Energy (Team Up)",
+        "image": "https://den-media.pokellector.com/logos/Sun-Moon.logo.205.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM_Energy-010-grass_energy-1.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM_Energy-011-fire_energy-1.jpg",
@@ -15280,7 +15419,8 @@
         ]
     },
     {
-        "setName": "Sun & Moon Promos (SMP)",
+        "setName": "Sun & Moon Promos",
+        "image": "https://den-media.pokellector.com/logos/Sun-Moon-Promos.logo.209.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM01-rowlet.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM02-litten.jpg",
@@ -15536,7 +15676,8 @@
         ]
     },
     {
-        "setName": "Sun & Moon Trainer Kit—Alolan Raichu (TK10A)",
+        "setName": "Sun & Moon Trainer Kit—Alolan Raichu",
+        "image": "https://den-media.pokellector.com/logos/Sun-Moon-Promos.logo.209.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK10B-004-stufful.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK10B-006-golbat.jpg",
@@ -15558,7 +15699,8 @@
         ]
     },
     {
-        "setName": "Sun & Moon Trainer Kit—Lycanroc (TK10L)",
+        "setName": "Sun & Moon Trainer Kit—Lycanroc",
+        "image": "https://den-media.pokellector.com/logos/Sun-Moon-Promos.logo.209.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK10A-001-caterpie.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK10A-004-trumbeak.jpg",
@@ -15580,7 +15722,8 @@
         ]
     },
     {
-        "setName": "Supreme Victors (SV)",
+        "setName": "Supreme Victors",
+        "image": "https://den-media.pokellector.com/logos/Platinum-Supreme-Victors.logo.40.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/absol-g-lv.x-supreme-victors-sv-141.jpg",
             "https://pkmncards.com/wp-content/uploads/absol-g-supreme-victors-sv-1.jpg",
@@ -15738,7 +15881,8 @@
         ]
     },
     {
-        "setName": "Sword & Shield (SSH)",
+        "setName": "Sword & Shield",
+        "image": "https://den-media.pokellector.com/logos/Sword-Shield.logo.286.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH1-001-celebi_v.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH1-002-roselia.jpg",
@@ -15960,6 +16104,7 @@
     },
     {
         "setName": "Sword & Shield Energy",
+        "image": "https://den-media.pokellector.com/logos/Sword-Shield-Promos.logo.287.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH_Energy-001-grass_energy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH_Energy-002-fire_energy.jpg",
@@ -15974,6 +16119,7 @@
     },
     {
         "setName": "Sword & Shield Energy (Brilliant Stars)",
+        "image": "https://den-media.pokellector.com/logos/Sword-Shield-Promos.logo.287.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH_Energy-010-grass_energy.jpeg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH_Energy-011-fire_energy.jpeg",
@@ -15987,6 +16133,7 @@
     },
     {
         "setName": "Sword & Shield Promos",
+        "image": "https://den-media.pokellector.com/logos/Sword-Shield-Promos.logo.287.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_SWSH-SWSH001-grookey.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_SWSH-SWSH002-scorbunny.jpg",
@@ -16298,7 +16445,8 @@
         ]
     },
     {
-        "setName": "Team Magma vs Team Aqua (MA)",
+        "setName": "Team Magma vs Team Aqua",
+        "image": "https://den-media.pokellector.com/logos/EX-Team-Magma-vs-Team-Aqua.logo.55.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/absol-team-magma-vs-team-aqua-ma-96.jpg",
             "https://pkmncards.com/wp-content/uploads/cradily-ex-team-magma-vs-team-aqua-ma-90.jpg",
@@ -16400,7 +16548,8 @@
         ]
     },
     {
-        "setName": "Team Rocket (RO)",
+        "setName": "Team Rocket",
+        "image": "https://den-media.pokellector.com/logos/Team-Rocket.logo.123.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/abra-team-rocket-tr-49.jpg",
             "https://pkmncards.com/wp-content/uploads/challenge-team-rocket-tr-74.jpg",
@@ -16488,7 +16637,8 @@
         ]
     },
     {
-        "setName": "Team Rocket Returns (TR)",
+        "setName": "Team Rocket Returns",
+        "image": "https://den-media.pokellector.com/logos/EX-Team-Rocket-Returns.logo.58.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/azumarill-team-rocket-returns-rr-1.jpg",
             "https://pkmncards.com/wp-content/uploads/charmeleon-team-rocket-returns-rr-110.jpg",
@@ -16604,7 +16754,8 @@
         ]
     },
     {
-        "setName": "Team Up (TEU)",
+        "setName": "Team Up",
+        "image": "https://den-media.pokellector.com/logos/Team-Up.logo.261.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM9-001-celebi_venusaur_gx.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM9-002-weedle.jpg",
@@ -16808,7 +16959,8 @@
         ]
     },
     {
-        "setName": "Temporal Forces (TEF)",
+        "setName": "Temporal Forces",
+        "image": "https://den-media.pokellector.com/logos/Temporal-Forces.logo.383.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv5_en_001_std.jpg",
             "https://pkmncards.com/wp-content/uploads/sv5_en_002_std.jpg",
@@ -17031,7 +17183,8 @@
         ]
     },
     {
-        "setName": "Triumphant (TM)",
+        "setName": "Triumphant",
+        "image": "https://den-media.pokellector.com/logos/HS-Triumphant.logo.37.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS4-001-aggron.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS4-002-altaria.jpg",
@@ -17139,7 +17292,8 @@
         ]
     },
     {
-        "setName": "Twilight Masquerade (TWM)",
+        "setName": "Twilight Masquerade",
+        "image": "https://den-media.pokellector.com/logos/Twilight-Masquerade.logo.392.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/sv6_en_001_std.jpg",
             "https://pkmncards.com/wp-content/uploads/sv6_en_002_std.jpg",
@@ -17370,7 +17524,8 @@
         ]
     },
     {
-        "setName": "Ultra Prism (UPR)",
+        "setName": "Ultra Prism",
+        "image": "https://den-media.pokellector.com/logos/Ultra-Prism.logo.234.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM5-001-exeggcute.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM5-002-yanma.jpg",
@@ -17566,7 +17721,8 @@
         ]
     },
     {
-        "setName": "Unbroken Bonds (UNB)",
+        "setName": "Unbroken Bonds",
+        "image": "https://den-media.pokellector.com/logos/Unbroken-Bonds.logo.269.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM10-001-pheromosa_buzzwole_gx.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM10-002-caterpie.jpg",
@@ -17809,7 +17965,8 @@
         ]
     },
     {
-        "setName": "Undaunted (UD)",
+        "setName": "Undaunted",
+        "image": "https://den-media.pokellector.com/logos/HS-Undaunted.logo.36.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS3-001-bellossom.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS3-002-espeon.jpg",
@@ -17905,7 +18062,8 @@
         ]
     },
     {
-        "setName": "Unified Minds (UNM)",
+        "setName": "Unified Minds",
+        "image": "https://den-media.pokellector.com/logos/Unified-Minds.logo.275.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SM11-001-rowlet_alolan_exeggutor_gx.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SM11-002-yanma.jpg",
@@ -18171,7 +18329,8 @@
         ]
     },
     {
-        "setName": "Unleashed (UL)",
+        "setName": "Unleashed",
+        "image": "https://den-media.pokellector.com/logos/HS-Unleashed.logo.35.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS2-001-jirachi.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-HGSS2-002-magmortar.jpg",
@@ -18272,7 +18431,8 @@
         ]
     },
     {
-        "setName": "Unseen Forces (UF)",
+        "setName": "Unseen Forces",
+        "image": "https://den-media.pokellector.com/logos/EX-Unseen-Forces.logo.61.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/aipom-unseen-forces-uf-34.jpg",
             "https://pkmncards.com/wp-content/uploads/ampharos-unseen-forces-uf-1.jpg",
@@ -18423,6 +18583,7 @@
     },
     {
         "setName": "Victory Medals",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/victory-medal-autumn-battle-road-2007-2008.jpg",
             "https://pkmncards.com/wp-content/uploads/victory-medal-autumn-battle-road-2008-2009.jpg",
@@ -18436,7 +18597,8 @@
         ]
     },
     {
-        "setName": "Vivid Voltage (VIV)",
+        "setName": "Vivid Voltage",
+        "image": "https://den-media.pokellector.com/logos/Vivid-Voltage.logo.299.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH4-001-weedle.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-SWSH4-002-kakuna.jpg",
@@ -18645,6 +18807,7 @@
     },
     {
         "setName": "Wizards Black Star Promos",
+        "image": "https://den-media.pokellector.com/logos/Wizards-of-the-Coast-Promos.logo.125.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/arcanine-wizards-black-star-promos-6.jpg",
             "https://pkmncards.com/wp-content/uploads/articuno-wizards-black-star-promos-22.jpg",
@@ -18703,6 +18866,7 @@
     },
     {
         "setName": "World Collection",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pok%C3%A9mon_Trading_Card_Game_logo.svg/312px-Pok%C3%A9mon_Trading_Card_Game_logo.svg.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/pikachu-world-collection-english.jpg",
             "https://pkmncards.com/wp-content/uploads/pikachu-world-collection-french.jpg",
@@ -18716,7 +18880,8 @@
         ]
     },
     {
-        "setName": "XY (XY)",
+        "setName": "XY",
+        "image": "https://den-media.pokellector.com/logos/XY.logo.142.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY1-001-venusaur_ex.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY1-002-m_venusaur_ex.jpg",
@@ -18868,6 +19033,7 @@
     },
     {
         "setName": "XY Energy (2013 Unnumbered)",
+        "image": "https://den-media.pokellector.com/logos/XY.logo.142.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-XY_Energy-001-grass_energy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-XY_Energy-002-fire_energy.jpg",
@@ -18881,7 +19047,8 @@
         ]
     },
     {
-        "setName": "XY Promos (XYP)",
+        "setName": "XY Promos",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_XY-XY01-chespin.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-Promo_XY-XY02-fennekin.jpg",
@@ -19102,7 +19269,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Bisharp (TK7A)",
+        "setName": "XY Trainer Kit—Bisharp",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK7A-001-fletchling.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK7A-002-metal_energy.jpg",
@@ -19137,7 +19305,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Latias (TK8A)",
+        "setName": "XY Trainer Kit—Latias",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK8B-001-grass_energy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK8B-002-grass_energy.jpg",
@@ -19172,7 +19341,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Latios (TK8O)",
+        "setName": "XY Trainer Kit—Latios",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK8A-001-skitty.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK8A-002-fighting_energy.jpg",
@@ -19207,7 +19377,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Noivern (TK6N)",
+        "setName": "XY Trainer Kit—Noivern",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK6A-001-spoink.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK6A-002-gourgeist.jpg",
@@ -19242,7 +19413,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Pikachu Libre (TK9P)",
+        "setName": "XY Trainer Kit—Pikachu Libre",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK9A-001-glameow.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK9A-002-lightning_energy.jpg",
@@ -19277,7 +19449,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Suicune (TK9S)",
+        "setName": "XY Trainer Kit—Suicune",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK9B-001-water_energy.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK9B-002-water_energy.jpg",
@@ -19312,7 +19485,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Sylveon (TK6S)",
+        "setName": "XY Trainer Kit—Sylveon",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK6B-001-fletchling.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK6B-002-fairy_energy.jpg",
@@ -19347,7 +19521,8 @@
         ]
     },
     {
-        "setName": "XY Trainer Kit—Wigglytuff (TK7B)",
+        "setName": "XY Trainer Kit—Wigglytuff",
+        "image": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
         "cards": [
             "https://pkmncards.com/wp-content/uploads/en_US-TK7B-001-swirlix.jpg",
             "https://pkmncards.com/wp-content/uploads/en_US-TK7B-002-pidgeotto.jpg",
