@@ -1,0 +1,15 @@
+com.example.pokemon.app-core-1.6.0-0 C:\Users\FARIB\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+com.example.pokemon.app-jetified-window-java-1.0.0-beta04-1 C:\Users\FARIB\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.pokemon.app-jetified-annotation-experimental-1.1.0-2 C:\Users\FARIB\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.pokemon.app-jetified-window-1.0.0-beta04-3 C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+com.example.pokemon.app-debug-4 D:\Projects\flutter\pokemon\android\app\src\debug\res
+com.example.pokemon.app-main-5 D:\Projects\flutter\pokemon\android\app\src\main\res
+com.example.pokemon.app-pngs-6 D:\Projects\flutter\pokemon\build\app\generated\res\pngs\debug
+com.example.pokemon.app-resValues-7 D:\Projects\flutter\pokemon\build\app\generated\res\resValues\debug
+com.example.pokemon.app-rs-8 D:\Projects\flutter\pokemon\build\app\generated\res\rs\debug
+com.example.pokemon.app-mergeDebugResources-9 D:\Projects\flutter\pokemon\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.pokemon.app-mergeDebugResources-10 D:\Projects\flutter\pokemon\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.pokemon.app-merged_res-11 D:\Projects\flutter\pokemon\build\app\intermediates\merged_res\debug
+com.example.pokemon.app-packaged_res-12 D:\Projects\flutter\pokemon\build\image_gallery_saver\intermediates\packaged_res\debug
+com.example.pokemon.app-packaged_res-13 D:\Projects\flutter\pokemon\build\path_provider_android\intermediates\packaged_res\debug
+com.example.pokemon.app-packaged_res-14 D:\Projects\flutter\pokemon\build\sqflite\intermediates\packaged_res\debug

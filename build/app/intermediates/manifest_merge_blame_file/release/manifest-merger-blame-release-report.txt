@@ -1,0 +1,122 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pokemon"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:2:9-70
+11-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:2:26-68
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:3:9-84
+12-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:3:26-82
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:4:9-83
+13-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:4:26-81
+14    <!--
+15         Required to query activities that can process text, see:
+16         https://developer.android.com/training/package-visibility and
+17         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+18
+19         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+20    -->
+21    <queries>
+21-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:43:5-48:15
+22        <intent>
+22-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:44:9-47:18
+23            <action android:name="android.intent.action.PROCESS_TEXT" />
+23-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:45:13-72
+23-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:45:21-70
+24
+25            <data android:mimeType="text/plain" />
+25-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:46:13-50
+25-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:46:19-48
+26        </intent>
+27    </queries>
+28
+29    <application
+30        android:name="android.app.Application"
+30-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:8:9-42
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.6.0] C:\Users\FARIB\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+32        android:icon="@mipmap/ic_launcher"
+32-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:9:9-43
+33        android:label="Pokemon Card Viewer"
+33-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:7:9-44
+34        android:requestLegacyExternalStorage="true" >
+34-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:6:9-52
+35        <activity
+35-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:10:9-31:20
+36            android:name="com.example.pokemon.MainActivity"
+36-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:11:13-41
+37            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+37-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:16:13-163
+38            android:exported="true"
+38-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:12:13-36
+39            android:hardwareAccelerated="true"
+39-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:17:13-47
+40            android:launchMode="singleTop"
+40-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:13:13-43
+41            android:taskAffinity=""
+41-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:14:13-36
+42            android:theme="@style/LaunchTheme"
+42-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:15:13-47
+43            android:windowSoftInputMode="adjustResize" >
+43-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:18:13-55
+44
+45            <!--
+46                 Specifies an Android theme to apply to this Activity as soon as
+47                 the Android process has started. This theme is visible to the user
+48                 while the Flutter UI initializes. After that, this theme continues
+49                 to determine the Window background behind the Flutter UI.
+50            -->
+51            <meta-data
+51-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:23:13-26:17
+52                android:name="io.flutter.embedding.android.NormalTheme"
+52-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:24:15-70
+53                android:resource="@style/NormalTheme" />
+53-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:25:15-52
+54
+55            <intent-filter>
+55-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:27:13-30:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:28:17-68
+56-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:28:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:29:17-76
+58-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:29:27-74
+59            </intent-filter>
+60        </activity>
+61        <!--
+62             Don't delete the meta-data below.
+63             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+64        -->
+65        <meta-data
+65-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:34:9-36:33
+66            android:name="flutterEmbedding"
+66-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:35:13-44
+67            android:value="2" />
+67-->D:\Projects\flutter\pokemon\android\app\src\main\AndroidManifest.xml:36:13-30
+68
+69        <uses-library
+69-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+70            android:name="androidx.window.extensions"
+70-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+71            android:required="false" />
+71-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+72        <uses-library
+72-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+73            android:name="androidx.window.sidecar"
+73-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+74            android:required="false" />
+74-->[androidx.window:window:1.0.0-beta04] C:\Users\FARIB\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+75    </application>
+76
+77</manifest>

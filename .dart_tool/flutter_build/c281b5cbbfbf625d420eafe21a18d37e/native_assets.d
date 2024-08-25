@@ -1,0 +1,1 @@
+ D:\\Projects\\flutter\\pokemon\\.dart_tool\\flutter_build\\c281b5cbbfbf625d420eafe21a18d37e\\native_assets.yaml: 
