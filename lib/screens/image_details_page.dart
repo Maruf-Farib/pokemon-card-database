@@ -118,7 +118,7 @@ class _ImageDetailsPageState extends State<ImageDetailsPage> {
                 if (details!['type'] == "Pokemon")
                   const Text("Pokemon: ", style: style),
                 if (details!['type'] != "Pokemon")
-                  Text(
+                  const Text(
                     'Trainer Card',
                     style: style,
                   ),
